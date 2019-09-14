@@ -1,0 +1,14 @@
+Time Stamp
+Low Noise Accelerometer X
+Low Noise Accelerometer Y
+Low Noise Accelerometer Z
+Gyroscope X
+Gyroscope Y
+Gyroscope Z
+Magnetometer X
+Magnetometer Y
+Magnetometer Z
+Quaternion 0
+Quaternion 1
+Quaternion 2
+Quaternion 3
